@@ -30,3 +30,5 @@ tests against prediction values and the real values
 mean absolute error
 mean square error
 root means squared error - values predicted and values observed
+### Modules installing process
+1.If you get any problem in installing packages from terminal you can download modules from python unofficial binaries and install them with the help of pip.
